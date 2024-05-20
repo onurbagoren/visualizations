@@ -7,5 +7,5 @@ Disclaimer: This repo does use functions and code written from other methods. I 
 - This script is meant to overlay the view frustum of an acoustic sensor over rays originating from a camera that uses the standard pinhole model. The idea is that the camera and the acoustic sensor overlap, and to just visualize it.
 - The visualization below displays a simple one. The poses of the camera/acoustic sensor follow that of a spiral. The colorful disks represent the spherical frustum at a distance `d` from the acoustic sensor making the measurement. The size of the frustum is dictated by the view angle of the sensor, which is best determined through experimental work.
 <p align='center'>
-![Hehe](https://github.com/onurbagoren/visualizations/blob/main/media/spiral_frustum.gif)
+<img src="https://github.com/onurbagoren/visualizations/blob/main/media/spiral_frustum.gif">
 </p>
